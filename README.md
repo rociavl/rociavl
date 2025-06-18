@@ -6,7 +6,7 @@ Currently working on projects involving brain imaging, medical AI, and bioinform
 - 🔭 I’m working on automatic segmentation of SEEG electrodes and brain masks using deep learning.  
 - 🌱 Learning advanced bioinformatics, biostatistics, and generative models for synthetic patient data.  
 - 💬 Ask me about machine learning in medical imaging, Python, or biomedical data analysis.  
-- 📫 How to reach me: [rociavl@gmail.com](mailto:rociavl@gmail.com)  
+- 📫 How to reach me: [rocio.avalos029@gmail.com](mailto:rociavl@gmail.com)  
 - ⚡ Fun fact: I love combining AI with neuroscience to push boundaries in healthcare!
 
 ---

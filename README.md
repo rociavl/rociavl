@@ -32,7 +32,7 @@ Exploratory bioinformatics notebooks for variant analysis, sequence processing, 
 
 ## 📈 GitHub Stats
 
-![Rocío's GitHub stats](https://github-readme-stats.vercel.app/api?username=rociavl&show_icons=true&theme=radical)
+![Rocío's GitHub stats](https://github-readme-stats.vercel.app/api?username=rociavl&show_icons=true&theme=gruvbox&hide=stars&count_private=true)
 
 ---
 

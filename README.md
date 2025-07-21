@@ -1,6 +1,6 @@
 # Hi, I'm Rocío Ávalos 👋
 
-I'm a Biomedical Engineering student passionate about applying **Artificial Intelligence** to solve real-world problems in **biomedicine** and **neuroscience**.  
+I'm a Biomedical Engineer passionate about applying **Artificial Intelligence** to solve real-world problems in **biomedicine** and **neuroscience**.  
 
 Currently developing AI-powered clinical tools and working at the intersection of machine learning, medical imaging, and computational biology.
 

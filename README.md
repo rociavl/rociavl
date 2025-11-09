@@ -8,7 +8,7 @@ Open to collaborations in medical AI, computational neuroscience, and biomedical
 ## 🧠 Featured Projects
 
 🔬 **[SlicerSEEG](https://github.com/rociavl/SlicerSEEG)** 
-Complete 3D Slicer extension for automated SEEG electrode localization. **Deployed at Hospital del Mar's Epilepsy Unit.** Includes GUI, documentation, and public demo.
+Complete 3D Slicer extension for automated SEEG electrode localization. Includes GUI, documentation, public demo and releases.
 
 🤖 **[CT Threshold Models](https://github.com/rociavl/ct-threshold-models-ml)**  
 ML ensemble for optimizing CT threshold selection in electrode segmentation. Integrates LightGBM, XGBoost, and Random Forest with clinical validation.

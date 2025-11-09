@@ -48,5 +48,5 @@ Genomics analysis, variant annotation, and sequence alignment pipelines for comp
 ---
 
 ## 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rocioavalos](https://www.linkedin.com/in/roc%C3%ADo-%C3%A1valos-morillas-04a5372b1))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rocioavalos](www.linkedin.com/in/rocío-ávalos-morillas-04a5372b1))  
 📫 [rocio.avalos029@gmail.com](mailto:rocio.avalos029@gmail.com)

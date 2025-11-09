@@ -7,7 +7,7 @@ Open to collaborations in medical AI, computational neuroscience, and biomedical
 
 ## 🧠 Featured Projects
 
-🔬 **[SlicerSEEG](https://github.com/rociavl/SlicerSEEG)** 
+🔬 **[SlicerSEEG](https://github.com/rociavl/SlicerSEEG)** | [Demo](https://huggingface.co/spaces/rociavl/SlicerSEEG-Demo)  
 Complete 3D Slicer extension for automated SEEG electrode localization. Includes GUI, documentation, public demo and releases.
 
 🤖 **[CT Threshold Models](https://github.com/rociavl/ct-threshold-models-ml)**  
@@ -48,5 +48,5 @@ Genomics analysis, variant annotation, and sequence alignment pipelines for comp
 ---
 
 ## 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rocioavalos](www.linkedin.com/in/rocío-ávalos-morillas-04a5372b1))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roc%C3%ADo-%C3%A1valos-morillas-04a5372b1/)  
 📫 [rocio.avalos029@gmail.com](mailto:rocio.avalos029@gmail.com)

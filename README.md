@@ -1,43 +1,40 @@
 # Hi, I'm Rocío Ávalos 👋
+Biomedical Engineer developing AI-powered clinical tools at the intersection of machine learning, medical imaging, and computational biology.
 
-I'm a Biomedical Engineer passionate about applying **Artificial Intelligence** to solve real-world problems in **biomedicine** and **neuroscience**.  
-
-Currently developing AI-powered clinical tools and working at the intersection of machine learning, medical imaging, and computational biology.
-
-- 🔭 I'm currently developing AI systems for automatic segmentation of SEEG electrodes and brain structures in clinical settings  
-- 🧬 Exploring generative models for synthetic biomedical data and biomarker discovery  
-- 🌱 Learning advanced bioinformatics, biostatistics, and HPC-enabled computational biology  
-- 💬 Ask me about machine learning in medical imaging, generative AI, or biomedical data analysis  
-- 📫 How to reach me: [rocio.avalos029@gmail.com](mailto:rocio.avalos029@gmail.com)  
-- ⚡ Fun fact: I love combining AI with neuroscience to push boundaries in precision medicine!
+Open to collaborations in medical AI, computational neuroscience, and biomedical data science.
 
 ---
 
-## 🧠 Projects at the Intersection of AI & Biomedicine
+## 🧠 Featured Projects
 
-🔬 **[SEEG Automatic Segmentation](https://github.com/rociavl/SEEG_automatic_segmentation)**  
-End-to-end deep learning pipeline for automatic localization of SEEG electrodes in 3D CT scans. *Currently deployed at Hospital del Mar's Epilepsy Unit.*
+🔬 **[SlicerSEEG](https://github.com/rociavl/SlicerSEEG)** | [Demo](https://huggingface.co/spaces/rociavl/SlicerSEEG-Demo)  
+Complete 3D Slicer extension for automated SEEG electrode localization. **Deployed at Hospital del Mar's Epilepsy Unit.** Includes GUI, documentation, and public demo.
+
+🤖 **[CT Threshold Models](https://github.com/rociavl/ct-threshold-models-ml)**  
+ML ensemble for optimizing CT threshold selection in electrode segmentation. Integrates LightGBM, XGBoost, and Random Forest with clinical validation.
+
+🧠 **[SEEG Automatic Segmentation](https://github.com/rociavl/SEEG_automatic_segmentation)**  
+End-to-end deep learning pipeline for SEEG electrode localization in 3D CT scans.
 
 🩺 **[CKD Biomarker Discovery](https://github.com/rociavl/CKD-Biomarker-Discovery)**  
-Machine learning pipeline for chronic kidney disease prediction using clinical biomarkers. Features patient stratification and early detection models.
+Machine learning pipeline for chronic kidney disease prediction with patient stratification and early detection models.
 
 🧠 **[3D Brain Mask Segmentation](https://github.com/rociavl/Brain_mask_3D_segmentation_model)**  
-UNet-based model for extracting accurate brain masks from post-surgical CTs. Integrated into clinical workflows.
+UNet-based model for brain mask extraction from post-surgical CTs. Integrated into clinical workflows.
 
 🧬 **[Synthetic Patient Cohort Generation](https://github.com/rociavl/Synthetic-Patient-Cohort-Generation-for-Rare-Disease-Research)**  
-Exploration of generative models (GANs) for creating synthetic patient cohorts in rare disease research.
+Generative models (GANs) for creating synthetic patient cohorts in rare disease research.
 
 📊 **[Chest X-Ray Pathology Classification](https://github.com/rociavl/Multi-Label-Classification-of-Pathologies-in-Chest-X-Rays)**  
-Multi-label deep learning model for detecting pathologies from chest X-rays using transfer learning and clinical evaluation metrics.
+Multi-label deep learning model for detecting pathologies from chest X-rays using transfer learning.
 
 🧪 **[Bioinformatics Pipelines](https://github.com/rociavl/Bioinformatics-)**  
-Exploratory genomics analysis, variant annotation, and sequence alignment pipelines for computational biology research.
+Genomics analysis, variant annotation, and sequence alignment pipelines for computational biology research.
 
 ---
 
 ## 🛠️ Tech Stack
-
-**AI/ML**: PyTorch, TensorFlow, scikit-learn, MONAI  
+**AI/ML**: PyTorch, TensorFlow, scikit-learn, MONAI, LightGBM, XGBoost  
 **Medical Imaging**: 3D Slicer, SimpleITK, NiBabel  
 **Programming**: Python, MATLAB, R, SQL  
 **Biocomputing**: Bioinformatics tools, HPC clusters, statistical modeling  
@@ -45,28 +42,11 @@ Exploratory genomics analysis, variant annotation, and sequence alignment pipeli
 
 ---
 
-## 🎓 Background
-
-- **BSc Biomedical Engineering** @ UPC (Expected 2025)
-- **Research Experience**: Hospital del Mar Research Institute & UPF Center for Brain and Cognition
-- **Certifications**: Bioinformatics Specialization (UC San Diego), Advanced English (C1)
-- **Upcoming**: MSc Bioinformatics & Biostatistics @ UOC-UB
-
----
-
 ## 📈 GitHub Stats
-
 ![Rocío's GitHub stats](https://github-readme-stats.vercel.app/api?username=rociavl&show_icons=true&theme=radical)
 
 ---
 
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on projects involving:
-- **Generative AI for healthcare**
-- **Medical image analysis and segmentation**
-- **Biomarker discovery and patient stratification**
-- **Synthetic biomedical data generation**
-- **Computational neuroscience applications**
-
-Thanks for stopping by! Feel free to reach out if you want to discuss AI in biomedicine or explore potential collaborations. 😊
+## 🤝 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rocioavalos)  
+📫 [rocio.avalos029@gmail.com](mailto:rocio.avalos029@gmail.com)

@@ -7,7 +7,7 @@ Open to collaborations in medical AI, computational neuroscience, and biomedical
 
 ## 🧠 Featured Projects
 
-🔬 **[SlicerSEEG](https://github.com/rociavl/SlicerSEEG)** | [Demo](https://huggingface.co/spaces/rociavl/SlicerSEEG-Demo)  
+🔬 **[SlicerSEEG](https://github.com/rociavl/SlicerSEEG)** 
 Complete 3D Slicer extension for automated SEEG electrode localization. Includes GUI, documentation, public demo and releases.
 
 🤖 **[CT Threshold Models](https://github.com/rociavl/ct-threshold-models-ml)**  
